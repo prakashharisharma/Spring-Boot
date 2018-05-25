@@ -6,7 +6,7 @@
 	<groupId>com.tutorialsdesk</groupId>
 	<artifactId>MVCWebApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>MVCWebApp</name>
 	<description>Demo project for Spring Boot</description>
